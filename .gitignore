@@ -1,0 +1,14 @@
+# Secrets (keep .env.example, ignore the real .env)
+.env
+
+# Python virtual environment
+.venv/
+
+# Node.js packages
+node_modules/
+
+# Next.js build output
+.next/
+
+# SQLite database files
+*.db
